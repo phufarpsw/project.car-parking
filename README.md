@@ -17,3 +17,19 @@
 &emsp;- สามารถนำไปประยุกต์ใช้ในสถานประกอบการหรือหน่วยงานอื่นได้<br>
 &emsp;- สามารถสร้างโปรแกรมที่ใช้จำลองแสดงสถานะช่องที่จอดรถ<br>
 &emsp;- นำระบบ Sensor IR Infrared ประยุกต์ใช้ในการตรวจจับรถ<br>
+<h3>อุปกรณ์ Arduino</h3>
+1. Arduino Uno 1 ตัว
+<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/arduino.jpeg" width="200px">
+2. Solderless Breadboard 1 อัน
+<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/board.jpg" width="200px">
+3. 16×2 LCD Display ๅ อัน
+<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/lcd.jpeg" width="200px">
+4. Infrared sensor 2 อัน
+<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/infrared.jpeg" width="200px">
+5. Male to Male Jumper Wires 15 เส้น
+<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/wire.jpg" width="200px">
+6. Resistor 4.7k , 1k , 100R อย่างละอัน
+<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/resister100.jpeg" width="200px">
+
+<h3>โปสเตอร์</h3>
+<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/poster.png" width="100%">
