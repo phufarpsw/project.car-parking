@@ -22,7 +22,7 @@
 <img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/arduino.jpeg" width="200px">
 2. Solderless Breadboard 1 อัน
 <img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/board.jpg" width="200px">
-3. 16×2 LCD Display ๅ อัน
+3. 16×2 LCD Display 1 อัน
 <img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/lcd.jpeg" width="200px">
 4. Infrared sensor 2 อัน
 <img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/infrared.jpeg" width="200px">
@@ -43,4 +43,12 @@
 </table></center>
 <h3>โปสเตอร์</h3>
 <img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/poster.png" width="100%">
-<h3>สมาชิกในกลุ่ม</h3>
+<h1>สมาชิกในกลุ่ม</h1>
+<table>
+    <tr>
+        <th><img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/p.jpg" width="400" height="250">นายณัชพล  นันทสันติ        63070049</th> 
+        <th><img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/jeng.jpg" width="400" height="250">นายณัฐดนัย วัฒพฤติไพศาล    63070051</th>
+        <th><img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/mild.jpg" width="400" height="250">นายธนวิชญ์ ลักษณะ         63070077</th> 
+        <th><img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/phufa.jpg" width="400" height="250">นายภูฟ้า    รุจิภาสวัฒน์      63070137</th> 
+    </tr>
+</table>
