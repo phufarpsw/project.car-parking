@@ -30,6 +30,13 @@
 <img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/wire.jpg" width="200px">
 6. Resistor 4.7k , 1k , 100R อย่างละอัน
 <img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/resister100.jpeg" width="200px">
-
+<center><table>
+<tr>
+    <th><img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/1.jpg" width="300"></th>
+    <th><img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/2.jpg" width="300"></th>
+    <th><img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/3.jpg" width="300"></th>
+    <th><img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/4.jpg" width="300"></th>
+</tr>
+</table></center>
 <h3>โปสเตอร์</h3>
 <img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/poster.png" width="100%">
