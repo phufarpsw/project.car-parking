@@ -42,7 +42,7 @@
     </tr>
 </table></center>
 <h3>โปสเตอร์</h3>
-<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/poster.png" width="100%">
+<img src="https://github.com/phufarpsw/project.car-parking/blob/main/img/poster1.png" width="100%">
 <h1>สมาชิกในกลุ่ม</h1>
 <table>
     <tr>
