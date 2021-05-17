@@ -1,5 +1,6 @@
-<h1>About The Project</h1>
-<b>ชื่อโครงงาน : Parking Automatic <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> 
+[ลิ้งคลิปวิดีโอสาธิตการใช้งาน](https://www.youtube.com/watch?v=gVlPaGUeF_k)
+<h1>About The Project&emsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<b>ชื่อโครงงาน : Parking Automatic<br> 
 ชนิดของโครงงาน : Micro-controller</b><br>
 &emsp;&emsp;โปรเจคนี้มีจุดประสงค์เพื่อ พัฒนาระบบการจัดการลานจอดรถได้ใช้อุปกรณ์ไมโครคอนโทรเลอร์ Arduino และเซนเซอร์ IR Sensor ตรวจจับแสดงผ่านหน้าจอแสดงผลเพื่อทําให้ประหยัดเวลาในการ วนหาที่จอด 
 และช่วยลดค่าใช้จ่ายอันเนื่องมาจากการสูญเสียพลังงานเชื้อเพลิงหรือมลพิษที่เพิ่มขึ้น โดยใช้ เซนเซอร์ในการรับค่าสถานะของช่องจอดรถเพื่อส่งไปแสดงผลจากการทดสอบพบว่าระบบสามารถที่จะ ตรวจสอบสถานะว่างหรือไม่ว่างของเซนเซอร์ภายในลานจอดรถพร้อมส่งค่าไปยังฐานข้อมูลเพื่อแสดงผลผ่านทาง หน้าจอแสดงผล
